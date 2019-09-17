@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1552431636 source:c:\users\dalye\desktop\c\assignment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"word_game.h"
+
+1552046918 c:\users\dalye\desktop\c\assignment1\word_game.h
+
+1552408481 source:c:\users\dalye\desktop\c\assignment1\word_game.c
+	<stdio.h>
+	<stdbool.h>
+
